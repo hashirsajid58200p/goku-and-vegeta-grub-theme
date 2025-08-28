@@ -7,11 +7,11 @@
 ## 📥 Installation Instructions
 **Step 1: Clone the theme repo**
 ```bash
-git clone https://github.com/hashirsajid58200p/goku-ui-grub-theme.git
+git clone https://github.com/hashirsajid58200p/goku-and-vegeta-grub-theme.git
 ```
 **Step 2: Go inside the theme folder**
 ```bash
-cd goku-ui-grub-theme
+cd goku-and-vegeta-grub-theme
 ```
 **Step 3. Run the installer script**
 ```bash
